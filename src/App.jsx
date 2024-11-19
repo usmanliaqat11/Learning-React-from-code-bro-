@@ -10,7 +10,6 @@ function App() {
       <Food/>
       <Footer/> */}
       <Card/>
-      <Middle/>
     </>
   );
 }
